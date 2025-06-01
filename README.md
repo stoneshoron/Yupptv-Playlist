@@ -65,15 +65,6 @@
 </h1>
 
 
-# 🚬Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=ABU+SAEEID+X+NOOB)](https://git.io/typing-svg)
-
-# 📝Note
-* The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
-* Please give me proper credit if you share this content. Otherwise, I will take it down.
-* The codes of the repo are encrypted to ensure security. Please refrain from trying to run or deploy them 
-* all country work 
-
 
 # ❤️ Support This Project
 
@@ -88,6 +79,13 @@ Every time you click an ad, you're giving a **free donation** — like handing u
 > ✅ 100% Free | ❌ No Payment Needed | 🖱️ Just One Click = Big Help!
 
 
+# 📝Note
+* The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
+* Please give me proper credit if you share this content. Otherwise, I will take it down.
+* The codes of the repo are encrypted to ensure security. Please refrain from trying to run or deploy them 
+
+# 🚬Credits
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=ABU+SAEEID+X+NOOB)](https://git.io/typing-svg)
 # ✉️Find Me on 
 
 - [![Github](https://img.shields.io/badge/Github-ABUSAEEIDX-purple?style=for-the-badge&logo=github)](https://github.com/abusaeeidx)

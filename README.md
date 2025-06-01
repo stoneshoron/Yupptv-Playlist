@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/logo.png" alt="🔥yupptv🔥" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/banner.png" alt="🔥yupptv🔥" width="200"></a>
   <br>
   🔥Yupptv playlist🔥
   <br>

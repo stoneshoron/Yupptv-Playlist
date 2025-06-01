@@ -49,13 +49,13 @@
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u)
-* 👆 Short Link : 
+* 👆 Short Link : https://is.gd/yupptv
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u)
-*  👆 Short Link : 
+*  👆 Short Link : https://is.gd/yupptv
 *  Enjoy 😊
 
 <h1 align="center">

@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
          alt="Gitter">
   
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
+  <a href="#">
       <img src="">
   </a>
   <a href="#">

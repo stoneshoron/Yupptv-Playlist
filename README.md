@@ -16,61 +16,51 @@
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
       <img src="">
   </a>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ba.jpg">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/logo.png">
   </a>
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src=""/></a>
+<a href=""><img src=""/></a>
 </p>
 
 # 📒 Introduction
 
-**⚡ Crichd Playlist Scraper** is a lightweight and smart script that extracts live sports stream links from the Crichd website and converts them into an **M3U playlist**.
+**⚡ Yupptv Playlist Scraper** is a lightweight and smart script that extracts live channel stream links from the website and converts them into an **M3U playlist**.
 
-⏱️ The playlist is **auto-updated every 15 minutes**, so you're always getting fresh, working streaming links — ready to play instantly!
+⏱️ The playlist is **auto-updated every 30 minutes**, so you're always getting fresh, working streaming links — ready to play instantly!
 
-📡 It supports many of the **most popular sports channels** worldwide.
+📡 It supports many of the **most popular channels** worldwide.
 
-🎯 Watch live Cricket, Football, UFC, WWE, F1 Racing, Tennis, and more — directly through any M3U-supported player (like VLC, IPTV Smarters, Tivimate, etc.).
+🎯 Watch live news, music,sports,kids, and more — directly through any M3U-supported player (like VLC, IPTV Smarters, Tivimate, etc.).
 
 > ⚠️ For educational and personal use only. Please follow the laws and regulations of your country.
 
 # 💥Key Features
 
-* All The Channel Links Are Updated Every 15 Minutes
+* All The Channel Links Are Updated Every 30 Minutes
 * Premium Channels Are Also Working
 * Contains Link
-* In JSON Format
 * You Can Easily Use
-
-
-
-# 🕹️How To Use
-**For Developers**
-* 👉 **[Auto Updated Channels Json File](https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/api.json)**
-* Use Get Request
-
-
 
 
 
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u)
-* 👆 Short Link : https://crichd-playlist-by-noob.pages.dev/ALL.m3u
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u)
+* 👆 Short Link : 
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u)
-*  👆 Short Link : https://crichd-playlist-by-noob.pages.dev/ALL.m3u
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u)
+*  👆 Short Link : 
 *  Enjoy 😊
 
 <h1 align="center">
-  <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss2.jpg" alt="Channel Image" width="400" style="margin: 20px;">
+  <a href="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/ss.jpg" alt="Channel Image" width="400" style="margin: 20px;">
   </a>
 </h1>
 

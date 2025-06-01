@@ -60,7 +60,7 @@
 
 <h1 align="center">
   <a href="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/ss.jpg" alt="Channel Image" width="400" style="margin: 20px;">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/ss1.jpg" alt="Channel Image" width="400" style="margin: 20px;">
   </a>
 </h1>
 

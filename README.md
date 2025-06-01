@@ -9,6 +9,9 @@
 <h2 align="center">A Script to trigger the GitHub Actions every 1 Hours to update the Channels Link</h2>
 
 <p align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/banner.jpg">
+  </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
          alt="Gitter">
@@ -16,9 +19,7 @@
   <a href="#">
       <img src="">
   </a>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/banner.jpg">
-  </a>
+  
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
 <a href=""><img src=""/></a>

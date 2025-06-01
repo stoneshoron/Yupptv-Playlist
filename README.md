@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h2 align="center">A Script to trigger the GitHub Actions every 30 minute to update the Channels Link</h2>
+<h2 align="center">A Script to trigger the GitHub Actions every 1 Hours to update the Channels Link</h2>
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -28,7 +28,7 @@
 
 **⚡ Yupptv Playlist Scraper** is a lightweight and smart script that extracts live channel stream links and converts them into an **M3U playlist**.
 
-⏱️ The playlist is **auto-updated every 30 minutes**, so you're always getting fresh, working streaming links — ready to play instantly!
+⏱️ The playlist is **auto-updated every 1 Hours**, so you're always getting fresh, working streaming links — ready to play instantly!
 
 📡 It supports many of the **most popular channels** worldwide.
 
@@ -38,7 +38,7 @@
 
 # 💥Key Features
 
-* All The Channel Links Are Updated Every 30 Minutes
+* All The Channel Links Are Updated Every 1 Hours
 * Premium Channels Are Also Working
 * Contains Link
 * You Can Easily Use

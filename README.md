@@ -26,7 +26,7 @@
 
 # 📒 Introduction
 
-**⚡ Yupptv Playlist Scraper** is a lightweight and smart script that extracts live channel stream links from the website and converts them into an **M3U playlist**.
+**⚡ Yupptv Playlist Scraper** is a lightweight and smart script that extracts live channel stream links and converts them into an **M3U playlist**.
 
 ⏱️ The playlist is **auto-updated every 30 minutes**, so you're always getting fresh, working streaming links — ready to play instantly!
 

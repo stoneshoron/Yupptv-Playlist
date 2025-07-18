@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/Picsart_25-06-01_12-39-24-073.png" alt="🔥yupptv🔥" width="250"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/image/Picsart_25-06-01_12-39-24-073.png" alt="🔥yupptv🔥" width="250"></a>
   <br>
   🔥Yupptv playlist🔥
   <br>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/banner.jpg">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/image/banner.jpg">
   </a>
   <a href="https://www.python.org/">
     <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
@@ -49,19 +49,19 @@
 # 🎬How To Play
 **📱Android**
 * Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/image/playlist.m3u)
 * 👆 Short Link : https://is.gd/yupptv
 *  Enjoy 😊
 
 **🖥️ Android TV**
 * Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/image/playlist.m3u)
 *  👆 Short Link : https://is.gd/yupptv
 *  Enjoy 😊
 
 <h1 align="center">
-  <a href="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/playlist.m3u">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/yupptv-Playlist/refs/heads/main/ss1.jpg" alt="Channel Image" width="400" style="margin: 20px;">
+  <a href="https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/image/playlist.m3u">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/Yupptv-Playlist/refs/heads/main/image/ss1.jpg" alt="Channel Image" width="400" style="margin: 20px;">
   </a>
 </h1>
 
